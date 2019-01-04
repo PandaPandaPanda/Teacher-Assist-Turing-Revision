@@ -1,3 +1,6 @@
+% Created by Kevin(Yuxiang) Xu for school project
+% All rights reserved
+
 import GUI % Must be included in a programs using the GPL
 
 View.Set ("graphics:640;480") % Shrink the window to the minimum size
